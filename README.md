@@ -1,5 +1,5 @@
 # Debian 9
-# GNOME Desktop OR xfce Desktop
+# Otomatik İpv6 Üretimi
 Kurulumu Nasıl Yaparım:
 
 **Max 16 İpv6 adresine sahip olabilirsiniz**
