@@ -2,9 +2,11 @@
 # GNOME Desktop OR xfce Desktop
 Kurulumu Nasıl Yaparım:
 
+**Max 16 İpv6 adresine sahip olabilirsiniz**
+
 Sunucuyu Sadece Proxy için Kullanmanız Önerilir. Önemli Dosyalarınızın olduğu Değil
 
-`cd /root/ & curl -O https://raw.githubusercontent.com/potaha/opkplo/main/install.sh && chmod +x install.sh && /bin/bash install.sh`
+`cd /root/ & curl -O https://raw.githubusercontent.com/potaha/DigitalOcean-ipv6-Create/main/install12.sh && chmod +x install12.sh && ./install12.sh`
 
 Bu komutunuzu PUTTY ile bağlanıp direk giriniz otomatik kuruluma başlayacaktır.
 
@@ -12,4 +14,4 @@ Bu komutunuzu PUTTY ile bağlanıp direk giriniz otomatik kuruluma başlayacakt�
 
 DigitalOcean'da Sunucu Oluştururken, En altta Bulunan **IPV6** Seçeneğini Seçmeyi Unutmayınız...
 
-Proxy Listesine Ulaşmak için.
+Proxyler otomatik Upload ediliyor 
