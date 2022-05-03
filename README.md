@@ -15,3 +15,5 @@ Bu komutunuzu PUTTY ile bağlanıp direk giriniz otomatik kuruluma başlayacakt�
 DigitalOcean'da Sunucu Oluştururken, En altta Bulunan **IPV6** Seçeneğini Seçmeyi Unutmayınız...
 
 Proxyler otomatik Upload ediliyor 
+
+işletim sistemi: Debian 9
