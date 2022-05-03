@@ -6,7 +6,7 @@ Kurulumu Nasıl Yaparım:
 
 Sunucuyu Sadece Proxy için Kullanmanız Önerilir. Önemli Dosyalarınızın olduğu Değil
 
-`cd /root/ & curl -O https://raw.githubusercontent.com/potaha/DigitalOcean-ipv6-Create/main/install12.sh && chmod +x install12.sh && ./install12.sh`
+`cd /root/ & apt update && apt install curl -y && curl -O https://raw.githubusercontent.com/potaha/DigitalOcean-ipv6-Create/main/install12.sh && chmod +x install12.sh && ./install12.sh`
 
 Bu komutunuzu PUTTY ile bağlanıp direk giriniz otomatik kuruluma başlayacaktır.
 
