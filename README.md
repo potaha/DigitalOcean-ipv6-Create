@@ -17,3 +17,5 @@ DigitalOcean'da Sunucu Oluştururken, En altta Bulunan **IPV6** Seçeneğini Se�
 Proxyler otomatik Upload ediliyor 
 
 işletim sistemi: Debian 9
+
+satışı yasaktır, ücretsizdir (Free Script)
